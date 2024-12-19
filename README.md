@@ -15,7 +15,7 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 public class Cimb {
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		SavingsAccount account = new SavingsAccount();
 		
